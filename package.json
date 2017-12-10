@@ -15,7 +15,7 @@
   "dependencies": {
     "boi-aux-autoinstall": "latest",
     "boi-mock": "latest",
-    "boi-transpiler": "latest",
+    "boi-my-transpiler": "latest",
     "boi-utils": "latest",
     "express": "^4.16.2",
     "shelljs": "^0.7.8",
